@@ -3,9 +3,9 @@ This respository contains the codes used to create a predictive model of the sou
 
 This README document is intended to provide a follow-along style protocol for re-creating this model. Relevant codes are included in this repository. For more detailed explinations of the algorithm and reasoning behind the use of this particular method, see the pdf file in this repo called "thesis_final_version.docx." This document also contains the expected output of the graphs from all of included R scripts. Email me if you have questions or comments: jillian.t.burke@gmail.com
 
-###############################################
+
 Summary of steps to creating the model
-###############################################
+
 Preprocessing of training set: 
 0. Process the training set to include a fairly balanced number of samples from each source category
 
@@ -27,9 +27,8 @@ Step 4 - optional PCA analysis:
 4B. Isolate single levels of the model (sources) and plot these  
 
 
-###############################################
 Detailed Steps to creating the model
-###############################################
+
 Preprocessing of training set: 
 0. Process the training set to include a fairly balanced number of samples from each source category
 To do this: 
