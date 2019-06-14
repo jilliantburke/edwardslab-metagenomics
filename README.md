@@ -1,6 +1,6 @@
-# edwardslab-metagenomics
-This respository contains the codes used to create and evaluate a predictive model of the source location (e.g. freshwater, marine water, human, animal, etc.) of metagenomic data. These metagenomes can be either RNAseq or shotgun DNAseq, but not amplicon/16s rRNA seq. 
+#metagenomic source location predictive model
 
+This respository contains the codes used to create and evaluate a predictive model of the source location (e.g. freshwater, marine water, human, animal, etc.) of metagenomic data based on the random forest algorthim. These metagenomes can be either RNAseq or shotgun DNAseq, but not amplicon/16s rRNA seq. 
 
 For a step by step protocol of how to re-create this model see the document titled protocol.pdf.
 
