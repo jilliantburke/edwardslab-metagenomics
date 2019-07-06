@@ -6,8 +6,6 @@ For a step by step protocol of how to re-create this model see the document titl
 
 For a detailed explaination of the algorithm and the reasoning behind the use of this particular method, see the document "thesis_final_version.docx." This document also contains the expected output of the graphs from all of included R scripts. 
 
-Please e-mail me if you have questions or comments: jillian.t.burke@gmail.com
-
 
 
 
