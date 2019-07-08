@@ -4,12 +4,12 @@ This repository contains the codes used to create and evaluate a predictive mode
 
 For a step by step protocol of how to re-create this model see the document titled protocol.pdf.
 
-For a detailed explaination of the algorithm and the reasoning behind the use of this particular method, see the document "thesis_final_version.docx." This document also contains the expected output of the graphs from all of included R scripts. 
+For a detailed explanation of the algorithm and the reasoning behind the use of this particular method, see the document "thesis_final_version.docx." This document also contains the expected output of the graphs from all of included R scripts. 
 
 
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4NTExOTEzLC0xNjQ3MTA5MTcyXX0=
+eyJoaXN0b3J5IjpbODQwMTE5NDY2XX0=
 -->
