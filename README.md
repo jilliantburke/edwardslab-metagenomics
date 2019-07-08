@@ -1,6 +1,6 @@
 Metagenomic Source Location Predictive Model
 
-This repository contains the codes used to create and evaluate a predictive model of the source location (e.g. freshwater, marine water, human, animal, etc.) of metagenomic data based on the random forest algorthim. Thesis method has been tested using whole-genome metagenomes as well as can be either RNAseq or shotgun DNAseq, but not amplicon/16s rRNA seq. 
+This repository contains the codes used to create and evaluate a predictive model of the source location (e.g. freshwater, marine water, human, animal, etc.) of metagenomic data based on the random forest algorithm. This method has been tested using whole-genome meta-genomes and RNAseq (meta-transcriptomes), however it has not suitable for amplicon sequencing data. 
 
 For a step by step protocol of how to re-create this model see the document titled protocol.pdf.
 
@@ -11,5 +11,5 @@ For a detailed explanation of the algorithm and the reasoning behind the use of 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyMzU0NjI5OCw4NDAxMTk0NjZdfQ==
+eyJoaXN0b3J5IjpbLTE0MjAwNTYzMDEsODQwMTE5NDY2XX0=
 -->
